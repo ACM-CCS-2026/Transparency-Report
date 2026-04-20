@@ -230,7 +230,7 @@ Most desk-rejected papers were flagged for a single reason (88.4%), but a non-tr
 | Straight accepts | 78 |
 | **Final accepts** | **191** |
  
-**Acceptance rate:** **19.5%** of the 981 papers in the final decision pool (equivalently, **15.8%** of the 1,206 submitted papers, including those desk-rejected).
+**Acceptance rate:** **19.5%** of the 981 papers in the final decision pool (equivalently, **15.8%** of the 1,206 submitted papers, including those desk-rejected). Note that this acceptance rate should be understood as an upper bound on the final acceptance rate, since papers receiving Minor Revision or Shepherding are not guaranteed final acceptance and some may still be rejected. 
  
 ---
  
