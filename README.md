@@ -1,7 +1,7 @@
 # **ACM CCS 2026 Between-Cycle Transparency Report**
 
 **Authors:** Veronique Cortier and Zhiqiang Lin  
-**Last updated:** April 19, 2026  
+**Last updated:** April 20, 2026  
 
 
 ---
