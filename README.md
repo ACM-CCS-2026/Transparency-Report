@@ -35,7 +35,7 @@ This report covers the following major themes from the first cycle of CCS 2026:
 
 **Notable findings.** Three results from this cycle stand out and may be of particular interest to the community. First, **missing or empty Open Science artifacts were by far the largest single cause of desk rejection (122 of 225 desk rejects, 54.2%)**, indicating that many authors still treat the Open Science appendix as optional rather than as a required part of the submission package. Second, **41 papers were desk-rejected for invalid or hallucinated references (18.2% of desk rejects)**, a new category of compliance issue that did not meaningfully exist in prior CCS cycles. Third, **roughly half of all submissions (598 of 1,206, or 49.6%) had at least one missing conflict of interest**; the distribution is most consistent with honest oversight rather than deliberate under-reporting, and has directly motivated a Cycle B refinement described below.
  
-The final acceptance rate was **19.5% of the 981 papers in the final decision pool** (equivalently, **15.8% of the 1,206 submitted papers**, including those desk-rejected).
+The final acceptance rate was **19.5% of the 981 papers in the final decision pool** (equivalently, **15.8% of the 1,206 submitted papers**, including those desk-rejected), although this rate may still change because papers receiving Minor Revision or Shepherding are not guaranteed final acceptance.
  
 
 ---
